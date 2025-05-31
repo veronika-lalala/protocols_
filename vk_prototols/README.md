@@ -11,5 +11,5 @@ python
 ![help](images_examples/help.jpg)
 ![friends](images_examples/friends.jpg)
 ![followers](images_examples/followers.jpg)
-![subscriptions](images/subscriptions.jpg)
+![subscriptions](images_examples/subscriptions.jpg)
 ![albums](images_examples/albums.jpg)
